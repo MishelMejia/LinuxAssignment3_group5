@@ -1,0 +1,44 @@
+[
+    {
+        "name": "ls",
+        "description": "List files",
+        "category": "File",
+        "example": "ls -la"
+    },
+    {
+        "name": "cd",
+        "description": "Change directory",
+        "category": "Navigation",
+        "example": "cd /home"
+    },
+    {
+        "name": "mkdir",
+        "description": "Create directory",
+        "category": "File",
+        "example": "mkdir test"
+    },
+    {
+        "name": "rm",
+        "description": "Remove file",
+        "category": "File",
+        "example": "rm file.txt"
+    },
+    {
+        "name": "pwd",
+        "description": "Show directory",
+        "category": "Navigation",
+        "example": "pwd"
+    },
+    {
+        "name": "touch",
+        "description": "Create file",
+        "category": "File",
+        "example": "touch new.txt"
+    },
+    {
+        "name": "cat",
+        "description": "Read file",
+        "category": "File",
+        "example": "cat file.txt"
+    }
+]

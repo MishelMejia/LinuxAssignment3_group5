@@ -1,0 +1,14 @@
+C:\Users\PC\Downloads\linux-assignment3-full\bin\Debug\net7.0\linux-assignment3.exe
+C:\Users\PC\Downloads\linux-assignment3-full\bin\Debug\net7.0\linux-assignment3.deps.json
+C:\Users\PC\Downloads\linux-assignment3-full\bin\Debug\net7.0\linux-assignment3.runtimeconfig.json
+C:\Users\PC\Downloads\linux-assignment3-full\bin\Debug\net7.0\linux-assignment3.dll
+C:\Users\PC\Downloads\linux-assignment3-full\bin\Debug\net7.0\linux-assignment3.pdb
+C:\Users\PC\Downloads\linux-assignment3-full\obj\Debug\net7.0\linux-assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\linux-assignment3-full\obj\Debug\net7.0\linux-assignment3.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\linux-assignment3-full\obj\Debug\net7.0\linux-assignment3.AssemblyInfo.cs
+C:\Users\PC\Downloads\linux-assignment3-full\obj\Debug\net7.0\linux-assignment3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\linux-assignment3-full\obj\Debug\net7.0\linux-assignment3.dll
+C:\Users\PC\Downloads\linux-assignment3-full\obj\Debug\net7.0\refint\linux-assignment3.dll
+C:\Users\PC\Downloads\linux-assignment3-full\obj\Debug\net7.0\linux-assignment3.pdb
+C:\Users\PC\Downloads\linux-assignment3-full\obj\Debug\net7.0\linux-assignment3.genruntimeconfig.cache
+C:\Users\PC\Downloads\linux-assignment3-full\obj\Debug\net7.0\ref\linux-assignment3.dll
