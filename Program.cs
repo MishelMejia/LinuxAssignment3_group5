@@ -7,10 +7,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        string json = File.ReadAllText("commands.json");
-        List<Command> commands = JsonSerializer.Deserialize<List<Command>>(json);
+     
+  
+        string json = File.ReadAllText("commands.json");      // READ THE JSON FILE
 
-        foreach (var cmd in commands)
+            List<Command> commands = JsonSerializer.Deserialize<List<Command>>(json);   // CONVERT JSON TO OBJECTS
+
+        foreach (var cmd in commands)    // PRINT COMMANDS ON SCREEN
         {
             cmd.Print();
         }
